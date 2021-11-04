@@ -1,6 +1,6 @@
 # CRA jest bug
 
-Make sure you have Node v16.13.0 installed.
+Make sure you have Node v16.13.0 and all the repo's packages installed.
 
 Then please run `npm test` and verify that the test completes successfully.
 
